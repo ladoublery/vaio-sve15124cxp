@@ -1,0 +1,68 @@
+22:593  0:171  Found UEFI Acpi 2.0 RSDP at AAFFE014
+22:593  0:000  Saving ACPI tables from RSDP AAFFE014 to EFI\CLOVER\ACPI\origin ...
+22:593  0:000   AAFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+22:593  0:000    (Xsdt: AAFFE210, Rsdt: AAFFE124)
+22:593  0:000    AAFFE210: 'XSDT', 'VAIO', Rev: 1, Len: 156
+22:593  0:000    AAFFE124: 'RSDT', 'VAIO', Rev: 1, Len: 96
+22:593  0:000    Tables in Xsdt: 15
+22:593  0:000    0. AAFFB000: 'FACP', 'VAIO', Rev: 5, Len: 268
+22:593  0:000        (Dsdt: AAFEE000, Facs: AAFBB000, XDsdt: AAFEE000, XFacs: 0)
+22:593  0:000        AAFEE000: 'DSDT', 'VAIO', Rev: 2, Len: 37305
+22:594  0:001        AAFBB000: 'FACS', Ver: 2, Len: 64
+22:594  0:000    1. AAFFD000: 'UEFI', 'VAIO', Rev: 1, Len: 566
+22:594  0:000    2. AAFFC000: 'ASF!', 'VAIO', Rev: 32, Len: 165
+22:594  0:000    3. AAFFA000: 'HPET', 'VAIO', Rev: 1, Len: 56
+22:594  0:000    4. AAFF9000: 'APIC', 'VAIO', Rev: 3, Len: 140
+22:594  0:000    5. AAFF8000: 'MCFG', 'VAIO', Rev: 1, Len: 60
+22:594  0:000    6. AAFEC000: 'WDAT', 'VAIO', Rev: 1, Len: 548
+22:594  0:000    7. AAFEA000: 'BOOT', 'VAIO', Rev: 1, Len: 40
+22:594  0:000    8. AAFE9000: 'ASPT', 'VAIO', Rev: 7, Len: 52
+22:594  0:000    9. AAFE8000: 'DBGP', 'VAIO', Rev: 1, Len: 52
+22:594  0:000    10. AAFE6000: 'FPDT', 'VAIO', Rev: 1, Len: 68
+22:594  0:000    11. AAFE5000: 'MSDM', 'VAIO', Rev: 3, Len: 85
+22:594  0:000    12. AAFE4000: 'SSDT', 'VAIO', Rev: 1, Len: 2276
+22:594  0:000    13. AAFE3000: 'SSDT', 'VAIO', Rev: 1, Len: 2706
+22:594  0:000    14. AAFED000: 'BGRT', 'VAIO', Rev: 1, Len: 56
+22:594  0:000    Tables in Rsdt: 15
+22:594  0:000    0. AAFFB000: 'FACP', 'VAIO', Rev: 5, Len: 268
+22:594  0:000        (Dsdt: AAFEE000, Facs: AAFBB000, XDsdt: AAFEE000, XFacs: 0)
+22:594  0:000        AAFEE000: 'DSDT', 'VAIO', Rev: 2, Len: 37305
+22:595  0:001        AAFBB000: 'FACS', Ver: 2, Len: 64
+22:595  0:000    1. AAFFD000: 'UEFI', 'VAIO', Rev: 1, Len: 566
+22:595  0:000    2. AAFFC000: 'ASF!', 'VAIO', Rev: 32, Len: 165
+22:595  0:000    3. AAFFA000: 'HPET', 'VAIO', Rev: 1, Len: 56
+22:595  0:000    4. AAFF9000: 'APIC', 'VAIO', Rev: 3, Len: 140
+22:595  0:000    5. AAFF8000: 'MCFG', 'VAIO', Rev: 1, Len: 60
+22:595  0:000    6. AAFEC000: 'WDAT', 'VAIO', Rev: 1, Len: 548
+22:595  0:000    7. AAFEA000: 'BOOT', 'VAIO', Rev: 1, Len: 40
+22:595  0:000    8. AAFE9000: 'ASPT', 'VAIO', Rev: 7, Len: 52
+22:595  0:000    9. AAFE8000: 'DBGP', 'VAIO', Rev: 1, Len: 52
+22:595  0:000    10. AAFE6000: 'FPDT', 'VAIO', Rev: 1, Len: 68
+22:595  0:000    11. AAFE5000: 'MSDM', 'VAIO', Rev: 3, Len: 85
+22:595  0:000    12. AAFE4000: 'SSDT', 'VAIO', Rev: 1, Len: 2276
+22:595  0:000    13. AAFE3000: 'SSDT', 'VAIO', Rev: 1, Len: 2706
+22:595  0:000    14. AAFED000: 'BGRT', 'VAIO', Rev: 1, Len: 56
+22:595  0:000  Found UEFI Acpi 1.0 RSDP at AAFFE000
+22:595  0:000  Printing ACPI tables from RSDP AAFFE000 ...
+22:595  0:000   AAFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+22:595  0:000    (Rsdt: AAFFE038)
+22:595  0:000    AAFFE038: 'RSDT', 'VAIO', Rev: 1, Len: 96
+22:595  0:000    Tables in Rsdt: 15
+22:595  0:000    0. AAFFB000: 'FACP', 'VAIO', Rev: 5, Len: 268
+22:595  0:000        (Dsdt: AAFEE000, Facs: AAFBB000, XDsdt: AAFEE000, XFacs: 0)
+22:595  0:000        AAFEE000: 'DSDT', 'VAIO', Rev: 2, Len: 37305
+22:596  0:001        AAFBB000: 'FACS', Ver: 2, Len: 64
+22:596  0:000    1. AAFFD000: 'UEFI', 'VAIO', Rev: 1, Len: 566
+22:596  0:000    2. AAFFC000: 'ASF!', 'VAIO', Rev: 32, Len: 165
+22:596  0:000    3. AAFFA000: 'HPET', 'VAIO', Rev: 1, Len: 56
+22:596  0:000    4. AAFF9000: 'APIC', 'VAIO', Rev: 3, Len: 140
+22:596  0:000    5. AAFF8000: 'MCFG', 'VAIO', Rev: 1, Len: 60
+22:596  0:000    6. AAFEC000: 'WDAT', 'VAIO', Rev: 1, Len: 548
+22:596  0:000    7. AAFEA000: 'BOOT', 'VAIO', Rev: 1, Len: 40
+22:596  0:000    8. AAFE9000: 'ASPT', 'VAIO', Rev: 7, Len: 52
+22:596  0:000    9. AAFE8000: 'DBGP', 'VAIO', Rev: 1, Len: 52
+22:596  0:000    10. AAFE6000: 'FPDT', 'VAIO', Rev: 1, Len: 68
+22:596  0:000    11. AAFE5000: 'MSDM', 'VAIO', Rev: 3, Len: 85
+22:596  0:000    12. AAFE4000: 'SSDT', 'VAIO', Rev: 1, Len: 2276
+22:596  0:000    13. AAFE3000: 'SSDT', 'VAIO', Rev: 1, Len: 2706
+22:596  0:000    14. AAFED000: 'BGRT', 'VAIO', Rev: 1, Len: 56
