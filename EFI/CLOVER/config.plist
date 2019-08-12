@@ -429,7 +429,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C1MP1CZBDTY31YJC3</string>
+		<string>XXXXXXXXXXXXX1YJC3</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -459,7 +459,7 @@
 		<key>ProductName</key>
 		<string>MacBookPro9,2</string>
 		<key>SerialNumber</key>
-		<string>C1MP1CZBDTY3</string>
+		<string>XXXXXXXXXXXXXXX</string>
 		<key>SmUUID</key>
 		<string>3FC778DF-3B02-4C98-A60E-A56F076B2E82</string>
 		<key>Trust</key>
